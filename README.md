@@ -82,8 +82,8 @@ Integer: printf("%i", 5); Output: 5
 
 ## Authors
 ---
-- [Yared Yilma](https://github.com/yaredow)
-- [Abdisa Gemechu](https://github.com/abdisag1)
+- [elzabet](https://github.com/elzabetmunir)
+- [zekariyas](https://github.com/ZekariyasGithub)
 
 ## Acknowledgements
 ---
